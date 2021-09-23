@@ -1,4 +1,7 @@
-'use strict';
+alert("photo_container.js connected");
+
+ReactDOM.render(JSX, document.getElementById('root'))
+
 
 class PhotoContainer extends React.Component {
   constructor(props) {
@@ -19,8 +22,9 @@ class PhotoContainer extends React.Component {
     );
   }
 }
-console.log("photo_container.js connected");
-const e = React.createElement;
+
+
+
 
 const domContainer = document.querySelector('#photo_container');
 ReactDOM.render(e(PhotoContainer), domContainer);
