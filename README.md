@@ -1,7 +1,5 @@
 ﻿# Flex_Box_Photo_Portfolio
 
-![avengers](https://user-images.githubusercontent.com/11747875/32584480-ab953ce2-c4b5-11e7-8adc-797353a02c7c.gif)
-
 <br>
 <br>
 
@@ -44,7 +42,7 @@ As I started the project, it continued to build in my mind and I decided I wante
 ### Project published at: 
 ---
 
-[Avengers](http://avengers.web-karma.org/#/list8)
+[Photo Portfolio]()
 
 ### More Information:
 ---
