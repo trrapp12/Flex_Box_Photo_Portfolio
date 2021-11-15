@@ -1,6 +1,9 @@
-﻿# Flex_Box_Photo_Portfolio
+# Flex_Box_Photo_Portfolio
 
 <br>
+
+[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)]
+
 <br>
 
 ---
