@@ -5,14 +5,14 @@
 }
 
 html {
-  max-width: 100vw;
   height: auto;
+  max-width: 100vw;
 }
 
 .container {
   background-color: black;
-  min-width: 100vw;
   height: auto;
+  min-width: 100vw;
 }
 
 .photo-container {
@@ -35,4 +35,49 @@ img {
   background-color: blue;
   object-fit: cover;
   vertical-align: bottom;
+}
+
+.lazy {
+  min-width: 100%;
+  max-height: 100%;
+  background-color: blue;
+  object-fit: cover;
+  vertical-align: bottom;
+  background-image: url(https://dummyimage.com/600x400/000/7e7f94.jpg&text=content+loading);
+}
+
+@media screen and (max-width: 600px) {
+
+  .photo-container {
+    height: 36vh;
+    background-color: red;
+    list-style: none;
+    flex-grow: 1;
+    width: auto;
+  }
+
+  .flex-container {
+    display: flex;
+    flex-flow: row;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* width: 100vw; */
+  }
+
+  .container {
+    background-color: black;
+    min-width: 100vw;
+    height: auto;
+    width: 100vw;
+    overflow: hidden;
+  }
+
+  img {
+    min-width: 100%;
+    max-height: 100%;
+    background-color: blue;
+    object-fit: cover;
+    vertical-align: bottom;
+  }
+
 }
