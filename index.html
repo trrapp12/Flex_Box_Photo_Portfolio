@@ -5,10 +5,24 @@
   <meta name="description" content="Our first page">
   <meta name="keywords" content="html tutorial template">
   <meta name='viewport' content='width=device-width'>
+  <noscript>
+    <p>It appears that JavaScript is turned off in your browser.  While the site will still work, this will effect the following:
+      <ul>
+        <li>increased load times for photos</li>
+        <li>inabillity to load font packages</li>
+      </ul>
+    </p>
+  </noscript>
+
   <link rel="stylesheet" type="text/css" href="src/photo_container.css">
   </head>
     <body>
       <div class="container">
+        <div class="nav-container">
+          <div class="nav-element">
+          </div>
+        </div>
+
       <ul class="flex-container">
         <li class="photo-container">
           <img src="src/assets/Paris_Morrocco/market.jpeg">
@@ -189,5 +203,15 @@
       <ul>
       </div>
       <script src="src/js/lazy_loader.js"></script>
+      <script>
+        (function(d) {
+          var config = {
+            kitId: 'svm0gao',
+            scriptTimeout: 3000,
+            async: true
+          },
+          h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+        })(document);
+      </script>
     </body>
 </html>
