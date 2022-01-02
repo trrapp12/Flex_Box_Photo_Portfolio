@@ -21,6 +21,9 @@
 ---
 
 ### Description:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s9tMCx4rRyA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 As a photographer, I wanted to find a way to display my photos in a way they could be quickly digested.  I got a great idea from the article [Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/) by [Tim Van Damme](https://css-tricks.com/author/timvandamme/).
