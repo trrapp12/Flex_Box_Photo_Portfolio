@@ -35,15 +35,15 @@ As I started the project, it continued to build in my mind and I decided I wante
 ### Project demonstrates the following:
 ---
 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [x] <em>User Story 1: </em>
+- [x] <em>User Story 2: </em> 
+- [x] <em>User Story 3: </em> 
+- [x] <em>User Story 4: </em> 
+- [x] <em>User Story 5: </em> 
+- [x] <em>User Story 6: </em> 
+- [x] <em>User Story 7: </em> 
+- [x] <em>User Story 8: </em> 
+- [x] <em>User Story 9: </em>
 
 ### Project published at: 
 ---
