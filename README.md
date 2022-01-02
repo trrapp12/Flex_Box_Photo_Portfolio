@@ -35,15 +35,10 @@ As I started the project, it continued to build in my mind and I decided I wante
 ### Project demonstrates the following:
 ---
 
-- [x] <em>User Story 1: </em>
-- [x] <em>User Story 2: </em> 
-- [x] <em>User Story 3: </em> 
-- [x] <em>User Story 4: </em> 
-- [x] <em>User Story 5: </em> 
-- [x] <em>User Story 6: </em> 
-- [x] <em>User Story 7: </em> 
-- [x] <em>User Story 8: </em> 
-- [x] <em>User Story 9: </em>
+- [x] <em>User Story 1: </em> As a photography website, ALL photos should be the authors.  This project demonstrates not only my own photography skills, but use of color, light, form, line, and subjects to tell a story.
+- [x] <em>User Story 2: </em> As a photographer, ALL photos should use a industry level POST production process.  This project demonstrates my ability to use Adobe PhotoShop, LightRoom, and Bridge.
+- [x] <em>User Story 3: </em> As a web designer, the website should demonstrate responsive design on mobile, tablet, and desktop.  This project demonstrates my ability to use Flex-Box, CSS, and media queries to achieve truly responsive web design which displays in mobile, tablet, or desktop form equally as well. 
+- [x] <em>User Story 4: </em> As a content heavy website, this website should minimize load times.  This project demonstrates my ability to use the Intersection Observer to achieve lazy-loading.
 
 ### Project published at: 
 ---
