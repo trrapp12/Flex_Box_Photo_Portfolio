@@ -22,7 +22,7 @@
 
 ### Description:
 
-
+![Video Demo](https://user-images.githubusercontent.com/11747875/147869074-7ce19db4-4526-4ca1-9965-1e8ab302ef3e.mp4)
 ---
 
 As a photographer, I wanted to find a way to display my photos in a way they could be quickly digested.  I got a great idea from the article [Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/) by [Tim Van Damme](https://css-tricks.com/author/timvandamme/).
