@@ -42,13 +42,6 @@ img {
   transition: border 200ms ease-in-out;
 }
 
-.photo-container:hover {
-  transition-property: filter;
-  transition-duration: 100ms;
-  filter: opacity(0.9);
-  backdrop-filter: invert(1);
-}
-
 img::after {
   position: absolute;
   display: block;-
