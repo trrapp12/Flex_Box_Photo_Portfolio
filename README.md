@@ -26,13 +26,21 @@ https://user-images.githubusercontent.com/11747875/147869105-330480a8-9561-4c81-
 
 ---
 
-As a photographer, I wanted to find a way to display my photos in a way they could be quickly digested.  I got a great idea from the article [Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/) by [Tim Van Damme](https://css-tricks.com/author/timvandamme/).
+As a photographer, I wanted to find a way to display my photos in a way they could be quickly digested.  I adapted this site from [Tim Van Damme](https://css-tricks.com/author/timvandamme/)'s [Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/).
 
 As I started the project, it continued to build in my mind and I decided I wanted to build it on a ReactJS framework, and then try to see if I could add some additional practice in loading photos in a more efficient way. 
 <br/>
 <br/>
 
-### Project demonstrates the following:
+### Project v2.0 will demonstrate the following:
+---
+
+- [x] <em>User Story 1: </em> To improve architecture and the dynamic capabilities of the site, will convert it to a ReactJS app.
+- [x] <em>User Story 2: </em> To improve UX/UI, will create a navigation menu that will allow you to sort which photo category you can see.
+- [x] <em>User Story 3: </em> To improve UX/UI, will create a way to select a photo to view closer, possibly on it's own page, or possibly in a modal. 
+- [x] <em>User Story 4: </em> To improve ADA, will audit the website against Level AA ADA standards of WCAG 2.0.
+
+### Project v1.0 demonstrates the following:
 ---
 
 - [x] <em>User Story 1: </em> As a photography website, ALL photos should be the authors.  This project demonstrates not only my own photography skills, but use of color, light, form, line, and subjects to tell a story.
