@@ -35,10 +35,10 @@ As I started the project, it continued to build in my mind and I decided I wante
 ### Project v2.0 will demonstrate the following:
 ---
 
-- [x] <em>User Story 1: </em> To improve architecture and the dynamic capabilities of the site, will convert it to a ReactJS app.
-- [x] <em>User Story 2: </em> To improve UX/UI, will create a navigation menu that will allow you to sort which photo category you can see.
-- [x] <em>User Story 3: </em> To improve UX/UI, will create a way to select a photo to view closer, possibly on it's own page, or possibly in a modal. 
-- [x] <em>User Story 4: </em> To improve ADA, will audit the website against Level AA ADA standards of WCAG 2.0.
+- [ ] <em>User Story 1: </em> To improve architecture and the dynamic capabilities of the site, will convert it to a ReactJS app.
+- [ ] <em>User Story 2: </em> To improve UX/UI, will create a navigation menu that will allow you to sort which photo category you can see.
+- [ ] <em>User Story 3: </em> To improve UX/UI, will create a way to select a photo to view closer, possibly on it's own page, or possibly in a modal. 
+- [ ] <em>User Story 4: </em> To improve ADA, will audit the website against Level AA ADA standards of WCAG 2.0.
 
 ### Project v1.0 demonstrates the following:
 ---
