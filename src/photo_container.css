@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-.container {
+.master-container {
   background-color: black;
   height: auto;
   min-width: 100vw;
