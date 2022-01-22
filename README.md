@@ -1,4 +1,4 @@
-# Flex_Box_Photo_Portfolio
+# Flex Box Photo Portfolio
 
 
 ##### Contributors: Trevor Rapp
