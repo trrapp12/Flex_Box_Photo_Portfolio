@@ -1,4 +1,4 @@
-(function({
+(() => {
   const spainPhotos = [];
   const cambodiaPhotos = [];
   const parisMorroccoPhotos = [];
