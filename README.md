@@ -1,4 +1,9 @@
-# Flex_Box_Photo_Portfolio
+# Flex Box Photo Portfolio
+
+
+##### Contributors: Trevor Rapp
+
+---
 
 <br>
 
@@ -32,7 +37,7 @@ As I started the project, it continued to build in my mind and I decided I wante
 <br/>
 <br/>
 
-### Project v2.0 will demonstrate the following:
+### Project v2.0 *will* demonstrate the following:
 ---
 
 - [ ] <em>User Story 1: </em> To improve architecture and the dynamic capabilities of the site, will convert it to a ReactJS app.
