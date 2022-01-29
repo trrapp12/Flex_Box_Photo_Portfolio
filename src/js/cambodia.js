@@ -1,4 +1,4 @@
-export const cambodiaFilePaths = [
+const cambodiaFilePaths = [
     "src/assets/resized/converted_reduced/converted_reduced_2/Cambodia/006.jpeg",
 "src/assets/resized/converted_reduced/converted_reduced_2/Cambodia/006_1.jpeg",
 "src/assets/resized/converted_reduced/converted_reduced_2/Cambodia/007.jpeg",
