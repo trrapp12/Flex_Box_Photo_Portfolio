@@ -1,4 +1,4 @@
-const parisFilePaths = [
+export const parisFilePaths = [
   "src\assets\resized\converted_reduced\converted_reduced_2\Paris_Morrocco_Small\31531640_n.jpeg",
 "src\assets\resized\converted_reduced\converted_reduced_2\Paris_Morrocco_Small\31675797_n.jpeg",
 "src\assets\resized\converted_reduced\converted_reduced_2\Paris_Morrocco_Small\31768742_n.jpeg",
