@@ -18,6 +18,13 @@ light blue = rgba(15, 72, 242, 95) */
   min-width: 100vw;
 }
 
+nav > ul > img {
+    max-width: 50px;
+    min-width: auto;
+    min-height: auto;
+    transition: 750ms;
+}
+
 .chinese {
   font-family: hellofont-id-chunyiti, sans-serif;
   font-weight: 400;
@@ -41,6 +48,7 @@ img {
   min-width: 100%;
   object-fit: cover;
   vertical-align: bottom;
+  transition: 750ms;
 }
 
 .nav {
@@ -58,12 +66,14 @@ img {
     flex-grow: 1;
     flex-shrink: 1;
     width: auto;
-    height: 100%;
     list-style-type: none;
     text-align: center;
-    padding: 2em;
-    border: 1px solid rgba(147, 15, 252, 99);
-    color: white;
+    display: flex;
+    justify-content: inherit;
+    margin: auto;
+    font-size: 1.3rem;
+    font-family: 'Cinzel', serif;
+    transition: 750ms;
 }
 
 
@@ -75,7 +85,7 @@ img {
     align-content: center;
     margin: auto;
     border-radius: 17px;
-    border: 2px solid rgba(147, 15, 252, 99);
+    transition: 750ms;
 }
 
 nav > ul > li:nth-child(1) {
@@ -153,12 +163,23 @@ img::after {
 
 }
 
-@media screen and (max-width: 797px) {
+@media screen and (max-width: 1250px) {
   .nav {
     width: 100vw;
-    background-color: red;
     display: block;
     position: fixed;
     top: 82vh;
+    transition: 750ms;
+  }
+  .nav-item {
+    display: none;
+    transition: 750ms;
+  }
+}
+
+@media screen and (min-width: 1250px) {
+  nav > ul > img {
+    display: none;
+    transition: 750ms;
   }
 }
