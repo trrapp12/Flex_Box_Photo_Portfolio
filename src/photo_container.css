@@ -38,6 +38,10 @@ nav > ul > img {
   flex-wrap: wrap;
 }
 
+.footnote-p {
+  color: black;
+}
+
 html {
   height: auto;
   max-width: 100vw;
