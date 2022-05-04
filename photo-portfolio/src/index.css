@@ -110,7 +110,7 @@ nav > ul > li:nth-last-child(1) {
 
 img::after {
   position: absolute;
-  display: block;-
+  display: block;
   content: "click";
   height: 100%;
   width: 100;
