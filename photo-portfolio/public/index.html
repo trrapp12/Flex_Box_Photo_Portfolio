@@ -7,14 +7,21 @@
     <meta name="theme-color" content="#000000" />
     <meta
       name="description"
-      content="Web site created using create-react-app"
+      content="Trevor Rapp Photo Portfolio"
     />
+    <meta name="keywords" content="html tutorial template photo photoshop portfolio">
+    <title>T.R.Rapp Photo Portfolio</title>
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
     -->
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="stylesheet" type="text/css" href="src/photo_container.css">
+    <link rel="stylesheet" type="text/css" href="src/animation.css">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Indie+Flower&family=Quicksand:wght@300&family=Zen+Kurenaido&display=swap');
+      </style>
     <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
@@ -24,10 +31,17 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+
   </head>
   <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <noscript>
+      <p>It appears that JavaScript is turned off in your browser.  While the site will still work, this will effect the following:
+        <ul>
+          <li>increased load times for photos</li>
+          <li>inabillity to load font packages</li>
+        </ul>
+      </p>
+    </noscript>
     <div id="root"></div>
     <!--
       This HTML file is a template.
@@ -39,5 +53,19 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <script type="text/javascript"  src="./src/js/lazy_loader.js"></script>
+    <script type="text/javascript"  src="./src/js/animation.js"></script>
+    <script type="text/javascript" src="./src/js/randomize_photos.js"></script>
+    <script>
+      (function(d) {
+        var config = {
+          kitId: 'svm0gao',
+          scriptTimeout: 3000,
+          async: true
+        },
+        h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+      })(document);
+    </script>
   </body>
+
 </html>
