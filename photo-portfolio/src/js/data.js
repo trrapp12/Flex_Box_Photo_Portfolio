@@ -1,5 +1,4 @@
-const data = {
-  "location" : [
+export default [
     {
       "name": "Cambodia",
       "images": [
@@ -267,7 +266,7 @@ const data = {
         "src/assets/resized/converted_reduced/converted_reduced_2/Cambodia/004_1.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/Cambodia/005.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/Cambodia/005_1.jpeg"
-        ],
+        ]
     }, 
     {
       "name": "Spain",
@@ -332,7 +331,7 @@ const data = {
         "src/assets/resized/converted_reduced/converted_reduced_2/Spain_Small/blue_metro_spain085.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/Spain_Small/box_windows_spain819.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/Spain_Small/catacombs_spain698.jpeg"
-      ],
+        ]
     },
     {
       "name": "United States",
@@ -419,33 +418,17 @@ const data = {
         "src/assets/resized/converted_reduced/converted_reduced_2/United_States_Small/baby_pic_2.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/United_States_Small/baby_pic_3.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/United_States_Small/baby_pic_4.jpeg"
-        ],
+        ]
     }, 
     {
       "name": "Paris",
       "images": [
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/31531640_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/31675797_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/31768742_n.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/31824469_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/31899984_n.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/31950266_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32078660_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32079357_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32105501_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32261022_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32267472_n.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32332045_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32655628_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32717605_n.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32737293_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32831375_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32853943_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/30167448_n.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/30419932_o.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/30420705_o.jpeg",
-        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/30821262_o.jpeg"
-      ],
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32853943_n.jpeg"
+      ]
     },
     {
       "name": "El Salvador",
@@ -483,16 +466,31 @@ const data = {
         "src/assets/resized/converted_reduced/converted_reduced_2/El_Salvador_Small/38151456_n.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/El_Salvador_Small/38202825_n.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/El_Salvador_Small/38304019_n.jpeg"
-        ],
+        ]
     },
     {
       "name": "Morocco",
       "images": [
-
-        ],
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/31531640_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/31675797_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/31768742_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/31899984_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32078660_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32079357_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32105501_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32261022_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32267472_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32655628_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32717605_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/32831375_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/30167448_n.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/30419932_o.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/30420705_o.jpeg",
+        "src/assets/resized/converted_reduced/converted_reduced_2/Paris_Morrocco_Small/30821262_o.jpeg"
+        ]
     },
     {
-      "name": "China"
+      "name": "China",
       "images": [
         "src/assets/resized/converted_reduced/converted_reduced_2/China_Small/big_panorama.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/China_Small/bike.jpeg",
@@ -584,7 +582,6 @@ const data = {
         "src/assets/resized/converted_reduced/converted_reduced_2/China_Small/yams.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/China_Small/alone2.jpeg",
         "src/assets/resized/converted_reduced/converted_reduced_2/China_Small/backstreetalley.jpeg"
-    ]
-} 
-  
-  
+      ]
+    }
+]
