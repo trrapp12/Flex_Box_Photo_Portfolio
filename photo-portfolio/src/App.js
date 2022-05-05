@@ -1,18 +1,23 @@
 import React from 'react'
-import Image from './Image'
-import data from './js/data'
+import Image from './image'
+import dataObject from './js/data'
 
 
-function App (props) {
-  const imagesData = data.map((value) => {
-    return (
-      <Image 
-      images = {value.images}
-    />
-    )
+const App = (props) => {
+  const imagesData = dataObject.map((value) => {
+    
+    for (let i = 0; i < value.length; i++) {
+      return (
+        <Image 
+          images = {value[i].images}
+        />
+      )
+    }
+
+
   });
   return (
-    {imagesData}
+    { imagesData }
   )
 }
 
