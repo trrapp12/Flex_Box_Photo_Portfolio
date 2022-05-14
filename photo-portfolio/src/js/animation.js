@@ -1,5 +1,5 @@
 (() => {
-  console.log("animation sequence loaded")
+  console.log("animation sequence loaded");
   window.addEventListener('DOMContentLoaded', function() {
     let cycleCount = 10;
 

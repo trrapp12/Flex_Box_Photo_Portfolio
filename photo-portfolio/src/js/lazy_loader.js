@@ -10,8 +10,8 @@
     // create callback
     function visibililtyCallCack (entries, observer) {
       console.log("call back called")
-      entries.forEach(entry => {
-        console.log("entry is " + entry)
+      entries.forEach((entry) => {
+        console.log("entry is " + entry);
         if (entry.isIntersecting) {
           console.log(`entry target src is ${entry.target.src} and dataset src is ${entry.target.dataset.src}`)
             entry.target.src = entry.target.dataset.src;

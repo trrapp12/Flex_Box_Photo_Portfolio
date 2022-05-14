@@ -4,6 +4,7 @@ import dataObject from './js/data'
 
 
 const App = (props) => {
+  console.log(dataObject)
   const imagesData = dataObject.map((value) => {
     
     for (let i = 0; i < value.length; i++) {
