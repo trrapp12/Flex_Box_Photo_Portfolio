@@ -32,9 +32,13 @@ https://user-images.githubusercontent.com/11747875/147869105-330480a8-9561-4c81-
 
 ### Description:
 
+<br/>
+
 >“Take only memories, leave only footprints.”
 >
 >– Chief Seattle
+
+<br/>
 
 *As a photographer, I wanted to find a way to display my photos in a way they could be quickly digested.  I adapted this site from [Tim Van Damme](https://css-tricks.com/author/timvandamme/)'s [Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/).*
 
@@ -52,7 +56,7 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 
 ---
 
-### Project v1.0 demonstrates the fohttps://trrapp12.github.io/Flex_Box_Photo_Portfolio/llowing:
+### PROJECT DEMONSTRATes
 
 
 - [x] <em>User Story 1: </em> As a photography website, ALL photos should be the authors.  This project demonstrates not only my own photography skills, but use of color, light, form, line, and subjects to tell a story.
@@ -60,13 +64,36 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 - [x] <em>User Story 3: </em> As a web designer, the website should demonstrate responsive design on mobile, tablet, and desktop.  This project demonstrates my ability to use Flex-Box, CSS, and media queries to achieve truly responsive web design which displays in mobile, tablet, or desktop form equally as well. 
 - [x] <em>User Story 4: </em> As a content heavy website, this website should minimize load times.  This project demonstrates my ability to use the Intersection Observer to achieve lazy-loading.
 
-### Project published at: 
+<br/>
+
+--- 
+
+### CHALLENGES I OVERCAME
+
+- [x] conceptualizing flexbox
+
+<br/>
+
 ---
 
-[Photo Portfolio](https://trrapp12.github.io/Flex_Box_Photo_Portfolio/)
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED:
 
-### More Information:
+- [X] my time and my photography
+
+<br/>
+
 ---
+
+### ATTRIBUTIONS: 
+
+*I adapted this site from [Tim Van Damme](https://css-tricks.com/author/timvandamme/)'s [Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/).*
+
+<br/>
+
+---
+
+### YOU CAN FIND ME AT:
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
+
 
