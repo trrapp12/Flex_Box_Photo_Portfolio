@@ -3,7 +3,7 @@
 
 #### Contributors: Trevor Rapp, Tim Van Damme
 
-*I adapted this site from [Tim Van Damme](https://css-tricks.com/author/timvandamme/)'s [Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/).*
+*I adapted this site from [Tim Van Damme's](https://css-tricks.com/author/timvandamme/) [Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/).*
 
 ---
 
@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/11747875/147869105-330480a8-9561-4c81-
 
 <br/>
 
-*As a photographer, I wanted to find a way to display my photos in a way they could be quickly digested.  I adapted this site from [Tim Van Damme](https://css-tricks.com/author/timvandamme/)'s [Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/).*
+*As a photographer, I wanted to find a way to display my photos in a way they could be quickly digested.  I adapted this site from [Tim Van Damme's](https://css-tricks.com/author/timvandamme/)[Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/).*
 
 *As I started the project, it continued to build in my mind and I decided I wanted to build it on a ReactJS framework, and then try to see if I could add some additional practice in loading photos in a more efficient way.*
 
@@ -86,7 +86,7 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 
 ### ATTRIBUTIONS: 
 
-*I adapted this site from [Tim Van Damme](https://css-tricks.com/author/timvandamme/)'s [Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/).*
+*I adapted this site from [Tim Van Damme's](https://css-tricks.com/author/timvandamme/) [Adaptive Photo Layout with Flexbox](https://css-tricks.com/adaptive-photo-layout-with-flexbox/).*
 
 <br/>
 
