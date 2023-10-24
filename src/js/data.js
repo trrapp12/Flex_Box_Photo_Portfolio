@@ -1,4 +1,4 @@
-export default [
+export const dataObject = [
     {
       "name": "Cambodia",
       "images": [
@@ -585,3 +585,4 @@ export default [
       ]
     }
 ]
+
